@@ -7,5 +7,7 @@ O ransomware desenvolvido por nós não é um malware sofisticado. No entanto, e
 
 # Integrantes do projeto
 Victor Barbosa
+
 Gustavo Barbosa
+
 Vitor Tavares
